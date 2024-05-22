@@ -1,8 +1,11 @@
 # Hi there 👋, I'm Ashish Kumar Singh
 
   ![Libraries GIF](https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif)
+ 
 
 Welcome to my GitHub profile! I'm passionate about data science, machine learning, and computer vision. I enjoy working on innovative projects and contributing to the tech community. Here’s a little more about me:
+
+ ![Libraries GIF](https://res.cloudinary.com/practicaldev/image/fetch/s--6oIBRWlG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo0yj83jowdehbw6t86o.gif) 
 
 ## About Me
 
@@ -13,9 +16,11 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I won 1st place in a Data Science Hackathon at IIT Hyd Tech-fest organized by Blend360.
 
-![Fun Fact GIF](https://media.giphy.com/media/3orieUe6ejxSFxYCXe/giphy.gif)
 
-![Fun Fact GIF](https://lvisionai.com/wp-content/uploads/2023/03/Multi-Object-Tracking.gif)
+
+
+![image](https://github.com/AshishKumarSingh03/AshishKumarSingh03/assets/116654089/aae532e6-8d72-4c8f-95da-3eed37f70f4f)
+
 
 
 
