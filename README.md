@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 - 🌱 I’m currently learning advanced topics in machine learning and AI.
 - 👯 I’m looking to collaborate on data science and machine learning projects.
 - 🤔 I’m looking for help with exploring new methodologies in deep learning and AI.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I won 1st place in a Data Science Hackathon at IIT Hyd Tech-fest organized by Blend360.
 
 
 
