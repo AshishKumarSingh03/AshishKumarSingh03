@@ -68,7 +68,7 @@ Aug. 2023 – Oct. 2023
 ## Courses & Certifications
 
 - Applications of AI/ML
-- Data Analysis
+- Data Analysi
 - Statistical Learning
 - ML Algorithms Analysis
 - SQL for Data Analytics
@@ -76,7 +76,7 @@ Aug. 2023 – Oct. 2023
 - SQL (Advanced) Certificate
 - GenAI (INeuron)
 - MLOps (INeuron)
-
+  
 
 
 ## Achievements & Responsibilities
