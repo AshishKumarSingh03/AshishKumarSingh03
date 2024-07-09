@@ -35,7 +35,8 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 ![Education GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 ## Current Position
-** Computer Vision Engineer**
+**Computer Vision Engineer**  
+*Vivifi India Finance Private Limited*
 *https://www.vivifin.com/*
 
 ## Experience
