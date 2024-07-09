@@ -34,6 +34,10 @@ Welcome to my GitHub profile! I'm passionate about data science, machine learnin
 
 ![Education GIF](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
+## Current Position
+** Computer Vision Engineer**
+*https://www.vivifin.com/*
+
 ## Experience
 
 **Data Science Intern**  
@@ -67,10 +71,10 @@ Aug. 2023 – Oct. 2023
 
 ## Courses & Certifications
 
-- Applications of AI/ML
-- Data Analysi
-- Statistical Learning
-- ML Algorithms Analysis
+- Applications of AI/ML (IIT Hyderabad)
+- Data Analysis (IIT Hyderabad)
+- Statistical Learning (IIT Hyderabad)
+- ML Algorithms Analysis 
 - SQL for Data Analytics
 - Programming in Python
 - SQL (Advanced) Certificate
